@@ -1,2 +1,4 @@
-# classification-of-movie-reviews-into-positive-and-negative
-A machine learning project to classify movie reviews as positive or negative.
+# IMDB Review Classification
+==========================
+
+Этот проект представляет собой модель машинного обучения для классификации отзывов к фильмам на положительные и отрицательные.
